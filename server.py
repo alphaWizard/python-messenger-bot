@@ -3,8 +3,8 @@ import re,random
 app = Flask(__name__)
 
 FB_API_URL = 'https://graph.facebook.com/v2.6/me/messages'
-VERIFY_TOKEN = 'yb81GpGIpvnHTN9Xe1QAY6/aGMIZXalFj9JjdXuw6BI='# <paste your verify token here>
-PAGE_ACCESS_TOKEN = 'EAAF84RZBIqRQBAPbZAPmSMZAhEZB2PWPw5ZAvBOkRDfMqxUZAdZCMVLQtvNmV3S597Qc5aK38cPwBfct8vnwG60lV67WjuZBEVwR45wlxEbz1at8FRXq8UWygYwMXgDw86QPlMWPd0wbD2kQnJHNd4WfmTjO7deIbf8sYkM2HeGZBMAZDZD'# paste your page access token here>"
+VERIFY_TOKEN = ''# <paste your verify token here>
+PAGE_ACCESS_TOKEN = ''# paste your page access token here>"
 
 
 
